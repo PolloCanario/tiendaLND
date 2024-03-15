@@ -1,0 +1,26 @@
+.first-container{
+    margin-top: 80px;
+}
+
+.titulo{
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+    border-top: 2px solid rgb(170, 167, 167);
+    border-bottom: 2px solid rgb(170, 167, 167);
+}
+
+.main-container{
+    border: 2px solid orange;
+    display: flex;
+}
+
+.main-container > img{
+    width: 300px;
+    height: auto;
+    margin-right: 10px;
+}
